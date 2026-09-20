@@ -1,0 +1,1 @@
+Replace/add studio photos and videos here when the client provides them. The current design uses CSS-generated visual placeholders so the project runs without external image dependencies.
